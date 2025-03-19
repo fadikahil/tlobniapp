@@ -1,0 +1,7 @@
+Fonts Used:
+Headlines: Inter
+Body: Montserrat
+
+Colors:
+Primary:#0D233F
+Secondary:#E7CCA8
